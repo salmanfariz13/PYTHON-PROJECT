@@ -1,2 +1,10 @@
 CONTACT MANAGEMENT SYSTEM - PYTHON
+#Contact management system is designed to provide the following functionality.
+1.create new contacts 
+2.Save contacts
+3.Update contacts
+4.Delete contacts
+
+##tkinter module is used for gui
+##sqlite3 is used for database management
 This Project is created by M Mohamed Salman Fariz
